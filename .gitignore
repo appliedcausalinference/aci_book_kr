@@ -1,0 +1,8 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# quarto
+quarto/quarto.Rproj

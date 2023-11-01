@@ -1,4 +1,4 @@
-# Applied Causal Inference Book
+# Applied Causal Inference Book (Korean Translation)
 
 Recent advancements in causal inference have made it possible to gain profound insight about our world and the complex systems which operate in it. While industry professionals and academics in every domain ask questions of their data, traditional statistical methods often fall short of providing conclusive answers. This is where causality can help.
 
